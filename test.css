@@ -1,0 +1,54 @@
+h1 {
+  font-size: 5rem;
+  text-align: center;
+  font-family: Balthazar, Papyrus, fantasy;
+  color: blue;
+}
+body{
+  background-color: #E8A0BF;
+  text-align: center;
+}
+.raw {
+  text-align: center;
+}
+.startbut{
+  height: 100px;
+  width: 200px;
+  margin: 20px;
+  border-radius: 50px;
+  border-color: black;
+  border-width: 5px;
+  font-size: 3rem;
+  background-color: #ACB1D6;
+  font-family: Papyrus, fantasy;
+  font-weight: bolder;
+}
+.but{
+  height: 200px;
+  width: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  border-color: black;
+  border-width: 5px;
+}
+.green {
+  background-image: url("images/3.jpg");
+
+}
+.blue{
+  background-image: url("images/1.jpg");
+}
+.yellow{
+  background-image: url("images/4.jpg");
+}
+.red{
+  background-image: url("images/2.jpg");
+}
+.animation{
+  box-shadow: 0 0 30px gray;
+  background-color: grey;
+  opacity: 0.5;
+}
+.over{
+  background-color: red;
+}
